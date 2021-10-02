@@ -1,0 +1,396 @@
+/* font-family: 'Comfortaa', cursive; */
+html,body{
+    padding: 0;
+    margin: 0;
+}
+body{
+    background: #D9ED92;
+}
+.login{
+    position: absolute;
+    width: 106px;
+    height: 45px;
+    left: 1316px;
+    top: 18px;
+    
+    background: #D9ED92;
+    border: 1px solid #082032;
+    box-sizing: border-box;
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+    border-radius: 19px;
+}
+
+.login:hover{
+    background-color: #082032;
+    color: #D9ED92;
+    border: 1px solid #80ED99;
+}
+.headname{
+position: absolute;
+width: 155px;
+height: 36px;
+left: 85px;
+top: 42px;
+
+font-family: 'Comfortaa', cursive;
+font-style: normal;
+font-weight: normal;
+font-size: 36px;
+line-height: 40px;
+
+color: #082032;
+
+text-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+}
+.login a{
+    text-decoration: none;
+    color: #082032;
+}
+.leftimg{
+    
+position: absolute;
+width: 481px;
+height: 419px;
+left: 42px;
+top: 170px;
+    
+
+}
+
+.bigtxt{
+    position: absolute;
+width: 873px;
+height: 71px;
+left: 499px;
+top: 250px;
+
+font-family: Barlow Semi Condensed;
+font-style: normal;
+font-weight: normal;
+font-size: 41px;
+line-height: 49px;
+text-transform: uppercase;
+
+color: #152D35;
+
+}
+.smalltxt{
+position: absolute;
+width: 489px;
+height: 63px;
+left: 671px;
+top: 316px;
+
+font-family: Barlow Semi Condensed;
+font-style: normal;
+font-weight: normal;
+font-size: 24px;
+line-height: 29px;
+text-align: center;
+text-transform: uppercase;
+
+color: #345B63;
+}
+.keyft{
+    position: absolute;
+    width: 340px;
+    height: 50px;
+    left: 646px;
+    top: 801px;
+    
+    font-family: Barlow Semi Condensed;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 50px;
+    line-height: 60px;
+    text-align: center;
+    text-transform: uppercase;
+    
+    color: #152D35;
+
+
+}
+
+.deadfish{
+    position: absolute;
+    width: 351px;
+    height: 370px;
+    left: 42px;
+    top: 979px;
+
+}
+.feature1{
+    position: absolute;
+width: 866px;
+height: 59px;
+left: 444px;
+top: 1105px;
+
+font-family: Barlow Semi Condensed;
+font-style: normal;
+font-weight: normal;
+font-size: 35px;
+line-height: 34px;
+text-align: center;
+text-transform: uppercase;
+
+color: #345B63;
+}
+
+.ar{
+    position: absolute;
+width: 318px;
+height: 330px;
+left: 1056px;
+top: 1417px;
+}
+.feature2{
+    position: absolute;
+width: 866px;
+height: 79px;
+left: 120px;
+top: 1501px;
+
+font-family: Barlow Semi Condensed;
+font-style: normal;
+font-weight: normal;
+font-size: 35px;
+line-height: 34px;
+text-align: center;
+text-transform: uppercase;
+
+color: #345B63;
+}
+
+.news{
+    position: absolute;
+    width: 498px;
+    height: 432px;
+    left: 15px;
+    top: 1777px;
+}
+.feature3{
+    position: absolute;
+    width: 781px;
+    height: 56px;
+    left: 498px;
+    top: 1993px;
+    
+    font-family: Barlow Semi Condensed;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 35px;
+    line-height: 34px;
+    text-align: center;
+    text-transform: uppercase;
+    
+    color: #345B63;
+    
+
+}
+.forest{
+    position: absolute;
+width: 522px;
+height: 410px;
+left: 877px;
+top: 2252px;
+}
+ .feature4{
+    position: absolute;
+    width: 781px;
+    height: 94px;
+    left: 0px;
+    top: 2487px;
+    
+    font-family: Barlow Semi Condensed;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 35px;
+    line-height: 42px;
+    text-align: center;
+    text-transform: uppercase;
+    
+    color: #345B63;
+ }
+ .footer{
+    position: absolute;
+    width: 100vw;
+    height: 56px;
+    left: 0px;
+    top: 2928px;
+    
+    background: #38A3A5;
+ }
+ .footertxt{
+    position: absolute;
+    width: 781px;
+    height: 43px;
+    left: 430px;
+    top: 2934px;
+    
+    font-family: Barlow Semi Condensed;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 20px;
+    line-height: 24px;
+    text-align: center;
+    text-transform: uppercase;
+    
+    color: #D9ED92;
+ }
+ .footertxt a{
+     color:#D9ED92 ;
+     text-decoration: none;
+ }
+.signup{
+    position: absolute;
+    width: 106px;
+    height: 45px;
+    left: 1198px;
+    top: 18px;
+    
+    background: #D9ED92;
+    border: 1px solid #082032;
+    box-sizing: border-box;
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+    border-radius: 19px;
+}
+.signup:hover{
+    background-color: #082032;
+    color: #D9ED92;
+    border: 1px solid #80ED99;
+}
+
+.emailinput{
+  
+position: absolute;
+width: 525px;
+height: 62px;
+left: 468px;
+top: 314px;
+
+background: #57CC99;
+border-radius: 19px;
+    border: none;
+    text-align: center;
+
+    font-size: 23px;
+    font-family: Barlow Semi Condensed; 
+    color: #082032;
+}
+.passwordinput{
+    position: absolute;
+    width: 525px;
+    height: 62px;
+    left: 468px;
+    top: 417px;
+    text-align: center;
+
+    font-size: 23px;
+    font-family: Barlow Semi Condensed; 
+    color: #082032;
+    
+    background: #57CC99;
+    border-radius: 19px;
+   
+border: none;
+}
+.submitbtn{
+    position: absolute;
+    width: 149px;
+    height: 44px;
+    left: 656px;
+    top: 535px;
+    font-family: Barlow Semi Condensed; 
+    font-size: 20px;
+    text-transform: uppercase;
+    color:#57CC99 ;
+    
+    
+    background: #22577A;
+    border-radius: 19px;
+border: none;
+}
+.logtxt{
+    position: absolute;
+width: 340px;
+height: 50px;
+left: 574px;
+top: 208px;
+
+font-family: Barlow Semi Condensed;
+font-style: normal;
+font-weight: normal;
+font-size: 50px;
+line-height: 60px;
+text-align: center;
+text-transform: uppercase;
+
+color: #152D35;
+
+}
+::-webkit-input-placeholder {
+    text-align: center;
+    font-family: Barlow Semi Condensed;
+    color: #152D35;
+    font-size: 23px;
+    text-transform: uppercase;
+}
+
+:-moz-placeholder {
+    text-align: center;
+    font-family: Barlow Semi Condensed;
+    color: #152D35;
+    font-size: 23px;
+    text-transform: uppercase;
+}
+.sign1{
+    position: absolute;
+width: 525px;
+height: 62px;
+left: 468px;
+top: 520px;
+
+font-size: 23px;
+font-family: Barlow Semi Condensed; 
+color: #082032;
+
+background: #57CC99;
+border-radius: 19px;
+text-align: center;
+
+border: none;
+
+}
+.sign2{
+    position: absolute;
+width: 525px;
+height: 62px;
+left: 468px;
+top: 623px;
+
+font-size: 23px;
+font-family: Barlow Semi Condensed; 
+color: #082032;
+
+background: #57CC99;
+border-radius: 19px;
+text-align: center;
+
+border: none;
+}
+.submit1{
+    position: absolute;
+width: 149px;
+height: 44px;
+left: 645px;
+top: 726px;
+font-family: Barlow Semi Condensed; 
+    font-size: 20px;
+    text-transform: uppercase;
+    color:#57CC99 ;
+
+background: #22577A;
+border-radius: 19px;
+border: none;
+}

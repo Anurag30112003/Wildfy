@@ -1,0 +1,45 @@
+{% extends "base.html" %} {% block title %}Login{% endblock %} {% block content
+    %}
+    <h1 class="logtxt"> Signup</h1>
+    <form method="POST">
+        <label for="email"></label>
+        <input 
+        type="text"
+        id = "email"
+        name = "email"
+        placeholder="email"
+        class="emailinput"
+        >
+        <label for="name"> </label>
+        <input 
+        type="text"
+        id = "name"
+        name = "name"
+        placeholder="enter name"
+        class="passwordinput"
+        >
+        <label for="password1"></label>
+        <input 
+        type="password"
+        id = "password1"
+        name = "password1"
+        placeholder="enter password"
+        class = "sign1"
+        >
+        <label for="password2"></label>
+        <input 
+        type="password"
+        id = "password2"
+        name = "password2"
+        placeholder="Confirm Password"
+        class = "sign2"
+        >
+        <button type="submit" class="submit1">Submit</button>
+    </form>
+    <div class="footer" style="top: 1000px;"></div>
+    <div class="footertxt" style="top: 1000px;">
+        Made with ❤️ <br>
+        by <a href="https://github.com/Anurag30112003/"> anurag </a>
+    </div>
+                            
+    {% endblock %}
