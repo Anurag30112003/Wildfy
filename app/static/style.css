@@ -394,3 +394,395 @@ background: #22577A;
 border-radius: 19px;
 border: none;
 }
+.dashtxt{
+    
+position: absolute;
+width: 482px;
+height: 50px;
+left: 503px;
+top: 151px;
+
+font-family: Barlow Semi Condensed;
+font-style: normal;
+font-weight: normal;
+font-size: 50px;
+line-height: 60px;
+text-align: center;
+text-transform: uppercase;
+
+color: #152D35;
+}
+.bunnyimg{
+    position: absolute;
+width: 391px;
+height: 282px;
+left: 892px;
+top: 252px;
+
+}
+.entx{
+    position: absolute;
+width: 668px;
+height: 40px;
+left: 138px;
+top: 387px;
+
+font-family: Barlow Semi Condensed;
+font-style: normal;
+font-weight: normal;
+font-size: 35px;
+line-height: 42px;
+text-align: center;
+text-transform: uppercase;
+
+color: #345B63;
+}
+.enbtn{
+    
+position: absolute;
+width: 180px;
+height: 57px;
+left: 444px;
+top: 477px;
+border: none;
+
+background: #80ED99;
+border-radius: 19px;
+font-family: Barlow Semi Condensed;
+font-style: normal;
+font-weight: normal;
+font-size: 24px;
+line-height: 29px;
+text-align: center;
+text-transform: uppercase;
+
+color: #22577A;
+}
+.boxdol{
+    position: absolute;
+width: 1205px;
+height: 382px;
+left: 138px;
+top: 328px;
+
+background: #22577A;
+}
+.titledol{
+    position: absolute;
+    width: 288px;
+    height: 50px;
+    left: 503px;
+    top: 341px;
+    
+    font-family: Barlow Semi Condensed;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 50px;
+    line-height: 60px;
+    text-align: center;
+    text-transform: uppercase;
+    color: #D9ED92;
+}
+.paradol{
+    position: absolute;
+width: 671px;
+height: 159px;
+left: 226px;
+top: 419px;
+
+font-family: Barlow Semi Condensed;
+font-style: normal;
+font-weight: normal;
+font-size: 24px;
+line-height: 29px;
+text-transform: uppercase;
+
+color: #D9ED92;
+}
+.btndol{
+    position: absolute;
+width: 180px;
+height: 57px;
+left: 301px;
+top: 605px;
+
+background: #80ED99;
+border-radius: 19px;
+font-family: Barlow Semi Condensed;
+font-style: normal;
+font-weight: normal;
+font-size: 24px;
+line-height: 29px;
+text-align: center;
+text-transform: uppercase;
+border: none;
+
+color: #22577A;
+}
+.dolimg{
+    position: absolute;
+width: 225px;
+height: 212px;
+left: 1054px;
+top: 366px;
+}
+.boxele{
+    position: absolute;
+width: 1205px;
+height: 382px;
+left: 138px;
+top: 794px;
+
+background: #22577A;
+}
+.titleele{
+    position: absolute;
+width: 288px;
+height: 65px;
+left: 503px;
+top: 807px;
+
+font-family: Barlow Semi Condensed;
+font-style: normal;
+font-weight: normal;
+font-size: 50px;
+line-height: 60px;
+text-align: center;
+text-transform: uppercase;
+
+color: #D9ED92;
+}
+.paraele{
+    position: absolute;
+width: 671px;
+height: 159px;
+left: 226px;
+top: 885px;
+
+font-family: Barlow Semi Condensed;
+font-style: normal;
+font-weight: normal;
+font-size: 24px;
+line-height: 29px;
+text-transform: uppercase;
+
+color: #D9ED92;
+}
+.eleimg{
+    position: absolute;
+width: 270px;
+height: 270px;
+left: 1032px;
+top: 826px;
+}
+.btnele{
+    position: absolute;
+width: 180px;
+height: 57px;
+left: 301px;
+top: 1071px;
+
+background: #80ED99;
+border-radius: 19px;
+font-family: Barlow Semi Condensed;
+font-style: normal;
+font-weight: normal;
+font-size: 24px;
+line-height: 29px;
+text-align: center;
+text-transform: uppercase;
+border: none;
+
+color: #22577A;
+}
+.boxbw{
+    position: absolute;
+width: 1205px;
+height: 382px;
+left: 117px;
+top: 1260px;
+
+background: #22577A;
+}
+.titlebw{
+    position: absolute;
+width: 316px;
+height: 65px;
+left: 481px;
+top: 1275px;
+
+font-family: Barlow Semi Condensed;
+font-style: normal;
+font-weight: normal;
+font-size: 50px;
+line-height: 60px;
+text-align: center;
+text-transform: uppercase;
+
+color: #D9ED92
+}
+.parabw{
+    position: absolute;
+    width: 671px;
+    height: 186px;
+    left: 226px;
+    top: 1351px;
+    
+    font-family: Barlow Semi Condensed;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 24px;
+    line-height: 29px;
+    text-transform: uppercase;
+    
+    color: #D9ED92;
+}
+.btnbw{
+    border: none;
+    
+position: absolute;
+width: 180px;
+height: 57px;
+left: 301px;
+top: 1537px;
+
+background: #80ED99;
+border-radius: 19px;
+font-family: Barlow Semi Condensed;
+font-style: normal;
+font-weight: normal;
+font-size: 24px;
+line-height: 29px;
+text-align: center;
+text-transform: uppercase;
+
+color: #22577A;
+}
+.bwimg{
+    position: absolute;
+    width: 330px;
+    height: 316px;
+    left: 952px;
+    top: 1260px;
+}
+.end{
+    position: absolute;
+    width: 1440px;
+    height: 125px;
+    left: 0px;
+    top: 1708px;
+    
+    background: #D9ED92;
+}
+
+.titleen{
+    position: absolute;
+width: 482px;
+height: 50px;
+left: 503px;
+top: 151px;
+
+font-family: Barlow Semi Condensed;
+font-style: normal;
+font-weight: normal;
+font-size: 50px;
+line-height: 60px;
+text-align: center;
+text-transform: uppercase;
+
+color: #152D35;
+}
+.imgcl{
+    position: absolute;
+    width: 266px;
+    height: 253px;
+    left: 947px;
+    top: 585px;
+}
+.textcl{
+    position: absolute;
+    width: 668px;
+    height: 40px;
+    left: 169px;
+    top: 638px;
+    
+    font-family: Barlow Semi Condensed;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 35px;
+    line-height: 42px;
+    text-align: center;
+    text-transform: uppercase;
+    
+    color: #345B63;
+}
+.btncl{
+
+    position: absolute;
+    width: 180px;
+    height: 57px;
+    left: 413px;
+    top: 724px;
+    
+    background: #80ED99;
+    border-radius: 19px;
+    font-family: Barlow Semi Condensed;
+font-style: normal;
+font-weight: normal;
+font-size: 24px;
+line-height: 29px;
+text-align: center;
+text-transform: uppercase;
+
+color: #22577A;
+border: none;
+}
+.cleantitle{
+    position: absolute;
+    width: 582px;
+    height: 50px;
+    left: 475px;
+    top: 151px;
+    
+    font-family: Barlow Semi Condensed;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 50px;
+    line-height: 60px;
+    text-align: center;
+    text-transform: uppercase;
+    
+    color: #152D35;
+}
+.cleanbox{
+    position: absolute;
+    width: 1205px;
+    height: 3486px;
+    left: 138px;
+    top: 321px;
+    
+    background: #22577A;
+}
+.cleanimg{
+    position: absolute;
+    width: 268px;
+    height: 294px;
+    left: 547px;
+    top: 381px;
+}
+.cleantxt{
+    position: absolute;
+width: 671px;
+height: 2986px;
+left: 356px;
+top: 745px;
+
+font-family: Barlow Semi Condensed;
+font-style: normal;
+font-weight: normal;
+font-size: 24px;
+line-height: 29px;
+text-transform: uppercase;
+
+color: #D9ED92;
+}
